@@ -1,6 +1,5 @@
 <resources>
-    <style name="Theme.NeckbandPopup" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="colorPrimary">#6200EE</item>
-        <item name="colorSecondary">#03DAC6</item>
+    <style name="Theme.NeckbandPopup" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#000000</item>
     </style>
 </resources>
